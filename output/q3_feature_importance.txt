@@ -1,0 +1,10 @@
+XGBoost Feature Importance:
+   feature  xgb_importance
+    MedInc        0.567666
+  AveOccup        0.154247
+ Longitude        0.074295
+  HouseAge        0.067540
+  Latitude        0.057086
+  AveRooms        0.053436
+ AveBedrms        0.014782
+Population        0.010947
